@@ -22,7 +22,7 @@ New Zealand
 
 https://www.aqualyd.nz
 
-The latest vesion of this manual is available on https://github.com/gavinmacaulay/wireless-winches.git[github].
+The latest vesion of this manual is available on https://github.com/Aqualyd-Limited/wireless-winches[github].
 
 = User Manual
 
