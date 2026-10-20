@@ -4,8 +4,13 @@ on:
     branches:
       - main
 
+permissions: {}
+
 jobs:
   build:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     container: asciidoctor/docker-asciidoctor
     
